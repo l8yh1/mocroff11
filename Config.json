@@ -1,0 +1,27 @@
+{
+  "author": "IMRAN",
+  "developermode": false,
+  "language": "en",
+  "approval": false,
+  "premium": false,
+  "BOTNAME": "castrol",
+  "EMAIL": "sanjivfresh@gmail.com",
+  "PREFIX": "!",
+  "OPERATOR": [
+    "100076350514454",
+    "61583680184127",
+    "61583478796243",
+    "100005334975364",
+    "100004186786779"
+  ],
+  "ADMINBOT": [
+    "61583680184127",
+    "100002433418073"
+  ],
+  "OWNER": [
+    "100075122837809"
+  ],
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "Don’t change owner uid or author name"
+}
